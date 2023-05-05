@@ -28,3 +28,15 @@ This PowerShell script is designed to monitor and detect potentially malicious e
 12. Starting the Defender Monitor: Finally, the script starts the Defender Monitor, which initiates the continuous monitoring and processing of security events.
 
 In summary, this script enhances system security by monitoring Windows Event Logs, fetching IOCs from an external source, and using a custom machine learning model to classify events as malicious or non-malicious. It takes appropriate actions to remediate malicious events and logs relevant information for further analysis.
+
+### Developed by
+
+Adam Rivers & Hello Security LLC
+
+### Contributing 
+
+Forks, changes, projects, bug reports, etc, are encouraged! 
+
+### License 
+
+This script is using a basic MIT license 
