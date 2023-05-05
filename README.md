@@ -29,6 +29,10 @@ This PowerShell script is designed to monitor and detect potentially malicious e
 
 In summary, this script enhances system security by monitoring Windows Event Logs, fetching IOCs from an external source, and using a custom machine learning model to classify events as malicious or non-malicious. It takes appropriate actions to remediate malicious events and logs relevant information for further analysis.
 
+### Note 
+
+you will have to edit the script prior to running to replace the current API placeholder with your fireEye API key. Or you can edit the code to prevent requiring hardcoded access for security purposes.
+
 ### Developed by
 
 Adam Rivers & Hello Security LLC
