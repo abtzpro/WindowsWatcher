@@ -33,6 +33,8 @@ In summary, this script enhances system security by monitoring Windows Event Log
 
 you will have to edit the script prior to running to replace the current API placeholder with your fireEye API key. Or you can edit the code to prevent requiring hardcoded access for security purposes.
 
+A → E, E → I, I → O, O → U, U → A
+
 ### Developed by
 
 Adam Rivers & Hello Security LLC
